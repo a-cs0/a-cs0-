@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Abdirhman Ahmed  
+#  Hi, I'm Abdirhman Ahmed  
 **Computer Engineering Student | Aspiring Cloud Security Engineer** 
 I am a hands-on learner dedicated to building secure, scalable cloud infrastructure. Currently bridging the gap between Computer Engineering theory and real-world Cloud Security practices.
 
 -------------------------
 
-## 🛠️ Technical Ecosystem
+##  Technical Ecosystem
 
 | Category | Technologies |
 | :--- | :--- |
@@ -23,13 +23,13 @@ I am a hands-on learner dedicated to building secure, scalable cloud infrastruct
 
 -------------------------
 
-## 📂 Featured Projects
+##  Featured Projects
 * **[Cloud-Security-Hardening](link-to-repo):** My documentation and scripts for securing AWS/Azure resources.
 * **[Automated-Net-Tool](link-to-repo):** A Python-based tool for basic network scanning and diagnostics.
 * **[Internship-Readiness-Log](link-to-repo):** A weekly tracker of my technical growth and hands-on lab completions.
 
 -------------------------
 
-## 📫 Let's Connect!
+##   Let's Connect!
 - **LinkedIn:** [Abdirhman Ahmed](https://www.linkedin.com/in/abdirhman-ahmed-10ba073a3/)
 - **GitHub:** [a-cs0](https://github.com/a-cs0)
